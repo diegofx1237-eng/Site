@@ -1,0 +1,52 @@
+.banner-img {
+
+  width: 100%;
+
+  height: auto;
+
+  display: block;
+
+}
+
+ .banner{
+ background-image: url("/img/Banner1.png") ;   
+background-size: cover;
+ width: 1900;
+height: 800px;
+
+}
+
+.botao{
+
+padding-left: 85%;
+
+}
+
+.buton{
+
+padding-left: 42%;
+padding-top: 23%;  
+}
+
+.tab{
+
+padding-left: 40%;
+width: 70%;
+background-color: antiquewhite;
+}
+
+ table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  th, td {
+    border: 1px solid #333;
+    padding: 8px;
+    text-align: left;
+}
+
+.fundo{
+background-color: antiquewhite;
+
+}
